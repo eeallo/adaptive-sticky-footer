@@ -1,6 +1,6 @@
 /* 
 Calculate footer height and readjust layout accordingly
-Author:	eeallo
+Author: eeallo
 Version: 27.11.2013
 */
 

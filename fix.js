@@ -4,6 +4,7 @@ Author: eeallo
 Version: 27.11.2013
 */
 
+/* We are using jQuery here for simplicity… */
 var $j = jQuery;
 
 $j(document).ready(function() {

@@ -1,7 +1,7 @@
 /* 
-	Calculate footer height and readjust layout accordingly
-	Author:		eeallo
-	Version:	27.11.2013
+Calculate footer height and readjust layout accordingly
+Author:		eeallo
+Version:	27.11.2013
 */
 
 var $j = jQuery;

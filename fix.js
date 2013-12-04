@@ -1,5 +1,5 @@
 /* 
-Calculate footer height and readjust layout accordingly
+Calculate footer height and adjust layout accordingly
 Author: eeallo
 Version: 27.11.2013
 */

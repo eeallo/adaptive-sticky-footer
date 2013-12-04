@@ -1,13 +1,12 @@
 /* 
 Calculate footer height and adjust layout accordingly
 Author: eeallo
-Version: 27.11.2013
+Version: 4.12.2013
 */
 
 /* We are using jQuery here for simplicity… */
-var $j = jQuery;
 
-$j(document).ready(function() {
-    $j('.wrapper').css('margin-bottom', -( $j('.footer').height() ) );    
-    $j('.push').css('height', $j('.footer').height() );
+$(document).ready(function() {
+    $('.wrapper').css('margin-bottom', -( $('.footer').height() ) );    
+    $('.push').css('height', $('.footer').height() );
 });
